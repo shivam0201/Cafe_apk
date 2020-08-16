@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bgdark">#AB363535</color>
+    <color name="btn_front">#443C20</color>
+    <color name="btn_end">#e8a564</color>
+    <color name="fb_back">#3c62ac</color>
+    <color name="google_back">#CB3463</color>
+    <color name="tintlogo">#AC7A4A</color>
+    <color name="wakeup_bg">#212121</color>
+</resources>

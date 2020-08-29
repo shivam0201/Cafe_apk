@@ -23,6 +23,7 @@ public class SignUp_activity extends AppCompatActivity {
 
                 Intent intent = new Intent(SignUp_activity.this, Sign_in_activity.class);
                 startActivity(intent);
+                finish();
             }
         });
     }
